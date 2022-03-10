@@ -1,0 +1,10 @@
+.expenses-filter{
+    color:aliceblue;
+    background-color: black;
+    font-weight: bold;
+    padding: 1rem;
+}
+.expenses-filter-control{
+    text-align:left;
+
+}

@@ -1,0 +1,8 @@
+.comment-date{
+    display:flex;
+    flex-direction: row;
+}
+.comment-form{
+    font-size: 20px;
+
+}
